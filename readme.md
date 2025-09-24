@@ -15,8 +15,8 @@ This project is part of the CodePath CYB102 course. Using Wireshark, I analyzed 
 
 ## 🛠 Tools & Environment
 - **Wireshark** – packet inspection & SMTP filters  
-- **Ubuntu VM** – safe environment for malware traffic  
-- **Command Line (Linux/Mac)** – handling `.zip` & file exports  
+- **Kali Linux VM** – safe environment for malware traffic  
+- **Command Line (Linux)** – handling `.zip` & file exports  
 
 ---
 
