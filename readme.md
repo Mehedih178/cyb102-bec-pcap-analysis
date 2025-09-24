@@ -44,13 +44,11 @@ Traced packet sources back to confirm the attacker’s IP.
 ---
 
 ## 📊 Key Findings
-- **Malicious Actor IP:** `X.X.X.X`  
+- **Malicious Actor IP:** `10.6.1.104`  
 - **Phishing Email Subjects:**  
-  - "Urgent: Wire Transfer Request"  
-  - "Payment Authorization Needed"  
-  - "Action Required: Invoice Attached"  
-
-*(Replace placeholders with your actual findings.)*
+  - "Read carefully! - dayrit"  
+  - "I can destroy everything! - 12345678"  
+  - "Your password! - nafd111"  
 
 ---
 
@@ -70,6 +68,6 @@ Exported `.eml` objects (phishing emails) were saved and inspected in a safe env
 This project demonstrated how real-world attackers exploit email protocols and how packet analysis tools like Wireshark can uncover fraud. It strengthened my skills in:
 - Email forensics  
 - Packet filtering & reassembly  
-- Identifying malicious network traffic  
+- Identifying malicious network traffic
 
 ---
