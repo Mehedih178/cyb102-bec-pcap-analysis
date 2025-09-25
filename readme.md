@@ -56,6 +56,9 @@ Traced packet sources back to confirm the attacker’s IP.
 - Wireshark packet filter view  
 - SMTP data pane showing phishing email  
 - Exported IMF object → `.eml` file *(stretch goal)*  
+<img width="1919" height="1080" alt="eml1" src="https://github.com/user-attachments/assets/b5ef3d46-e1a4-4a92-ae86-e68cff892758" />
+<img width="1935" height="1080" alt="eml2" src="https://github.com/user-attachments/assets/5089e9c4-72e0-4503-b6b2-8af454fe2f1b" />
+<img width="1908" height="1077" alt="eml3" src="https://github.com/user-attachments/assets/a6f0e2af-84cd-4ed3-ae58-2f2a891cbd86" />
 
 ---
 
