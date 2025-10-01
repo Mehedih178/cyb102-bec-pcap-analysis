@@ -1,0 +1,4 @@
+smtp               # show SMTP packets
+smtp.data.fragment # show email body fragments
+ip.src == x.x.x.x  # focus on malicious actor IP
+tcp contains "Subject" # locate email subject lines
